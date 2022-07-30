@@ -7,6 +7,7 @@ hello Git!
 hello Git!  hot-fix test
 hello Git!  branch 1
 hello Git!  master 2
+hello Git!  branch 2
 hello Git!
 hello Git!
 hello Git!
